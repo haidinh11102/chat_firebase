@@ -61,7 +61,7 @@ window.onload = function() {
   
         var join_button = document.createElement('button')
         join_button.setAttribute('id', 'join_button')
-        join_button.innerHTML = 'Join <i class="fas fa-sign-in-alt"></i>'
+        join_button.innerHTML = 'Join <i class="fa-solid fa-right-to-bracket"></i>'
   
         var join_input_container = document.createElement('div')
         join_input_container.setAttribute('id', 'join_input_container')
